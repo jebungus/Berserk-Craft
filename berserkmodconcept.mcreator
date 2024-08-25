@@ -1,0 +1,62 @@
+{
+  "mod_elements": [
+    {
+      "name": "Berserk",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "berserk",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Dragonslayer",
+      "type": "animateditem",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dragonslayer",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/berserkmodconcept/item/model/DragonslayerItemModel.java",
+          "src/main/resources/assets/berserkmodconcept/models/item/dragonslayer.json",
+          "src/main/java/net/mcreator/berserkmodconcept/item/DragonslayerItem.java",
+          "src/main/java/net/mcreator/berserkmodconcept/item/renderer/DragonslayerItemRenderer.java"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "item_group.berserkmodconcept.berserk": "Berserk",
+      "item.berserkmodconcept.dragonslayer": "Dragonslayer"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "berserkmodconcept",
+    "modName": "BerserkModConcept",
+    "version": "1.0.0",
+    "author": "benzo, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [
+      "geckolib"
+    ],
+    "currentGenerator": "forge-1.20.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.berserkmodconcept"
+  },
+  "mcreatorVersion": 202400232117
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "berserkmodconcept:displaysettings/dragonslayer_gecko.item",
+  "textures": {
+    "layer0": "berserkmodconcept:item/dragonslayer_tex"
+  }
+}
